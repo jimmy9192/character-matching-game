@@ -13,3 +13,6 @@ The pipeline is created using AWS Code Pipeline.  The pipeline pulls the code fr
 
 ## Demo
 A demo video is available in the `src/` 
+
+## AWS S3 Deployment Demo
+![AWS S3 Deployment](images/awsS3_deploy.png)
